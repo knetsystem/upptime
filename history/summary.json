@@ -4,17 +4,17 @@
     "url": "https://status.k-net.dk/status/text/",
     "icon": "https://icons.duckduckgo.com/ip3/status.k-net.dk.ico",
     "slug": "k-net-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 821,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "time": 774,
+    "timeDay": 774,
+    "timeWeek": 774,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   }
 ]
