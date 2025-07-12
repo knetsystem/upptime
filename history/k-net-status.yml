@@ -1,7 +1,7 @@
 url: https://status.k-net.dk/status/text/
-status: down
-code: 502
-responseTime: 609
-lastUpdated: 2025-07-12T17:39:39.791Z
+status: up
+code: 200
+responseTime: 720
+lastUpdated: 2025-07-12T18:43:10.494Z
 startTime: 2025-07-10T20:47:31.807Z
 generator: Upptime <https://github.com/upptime/upptime>
