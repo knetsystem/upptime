@@ -7,10 +7,6 @@ sites:
     url: https://status.k-net.dk/
     location: frankfurt
     __dangerous__body_down_if_text_missing: 'All Systems Operational'
-  - name: K-Net Vigil Status
-    url: https://vigil.k-net.dk/status/text/
-    location: frankfurt
-    __dangerous__body_down_if_text_missing: 'healthy'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
