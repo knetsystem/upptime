@@ -6,7 +6,7 @@ sites:
   - name: K-Net PromPage Status
     url: https://status.k-net.dk/
     location: frankfurt
-    __dangerous__body_down_if_text_missing: 'Built with PromPage'
+    __dangerous__body_down_if_text_missing: 'Built with <a class="text-avocado-600 hover:text-avocado-500" href="https://github.com/henrywhitaker3/prompage">PromPage</a>'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
